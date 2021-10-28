@@ -45,10 +45,11 @@
     
 }
 .container4_a {
-    display: flex;
+   
     background: rgb(216, 210, 210);
     flex-direction: row;
     width: 500px;
+    flex-direction: row;
     
 }
 
@@ -64,7 +65,16 @@
 
 .image-item1 {
     background: rgb(180, 176, 176);
-    height: 200px;
+    height: 100px;
     font-weight: 500px;
     margin: 20px;
+}
+
+.container5 {
+    flex-direction: row;
+    
+}
+
+.container4 {
+    display: flex;
 }
