@@ -1,0 +1,108 @@
+body {
+    background: linear-gradient(105deg, rgb(27, 27, 27), #a3ccf1);
+}
+
+.block {
+    width: 130px;
+    height: 130px;
+    transition: all 1s;
+    position: absolute;
+    box-shadow: 7px 2px 2px rgb(143, 139, 139);
+}
+
+.block:hover {
+    height: 240px;
+    width: 240px;
+    z-index: 99999;
+}
+
+.block_a {
+    background-color: rgb(231, 152, 170);
+    top: 3%;
+    left: 1%;
+}
+
+.block_b {
+    background-color: rgb(127, 171, 236);
+    top: 6%;
+    left: 2%;
+
+}
+
+.block_c {
+    background-color: rgb(151, 214, 162);
+    top: 9%;
+    left: 3%;
+}
+
+.block_d {
+    background-color: rgb(231, 152, 170);
+    top: 12%;
+    left: 4%;
+}
+
+.block_e {
+    background-color: rgb(127, 171, 236);
+    top: 15%;
+    left: 5%;
+}
+
+.block_f {
+    background-color: rgb(151, 214, 162);
+    top: 18%;
+    left: 6%;
+}
+
+.block_g {
+    background-color: rgb(231, 152, 170);
+    top: 21%;
+    left: 7%;
+}
+
+.block_h {
+    background-color: rgb(127, 171, 236);
+    top: 24%;
+    left: 8%;
+}
+
+.block_i {
+    background-color: rgb(151, 214, 162);
+    top: 27%;
+    left: 9%;
+}
+
+.block_j {
+    background-color: rgb(231, 152, 170);
+    top: 30%;
+    left: 10%;
+}
+
+.block_k {
+    background-color: rgb(127, 171, 236);
+    top: 33%;
+    left: 11%;
+}
+
+.block_l {
+    background-color: rgb(151, 214, 162);
+    top: 36%;
+    left: 12%;
+}
+
+.block_m {
+    background-color: rgb(127, 171, 236);
+    top: 39%;
+    left: 13%;
+}
+
+.block_n {
+    background-color: rgb(231, 152, 170);
+    top: 42%;
+    left: 14%;
+}
+
+.block_o {
+    background-color: rgb(151, 214, 162);
+    top: 45%;
+    left: 15%;
+}

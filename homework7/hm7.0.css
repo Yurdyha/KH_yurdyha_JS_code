@@ -1,0 +1,27 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(105deg, #dda4ad, rgb(125, 167, 206));
+    justify-content: space-between;
+
+}
+
+.block {
+    border: 1px solid;
+    width: 130px;
+    height: 90px;
+    transition: all 1s;
+    justify-content:  space-between;
+}
+
+.block:hover {
+    height: 200px;
+    width: 240px;
+}
+

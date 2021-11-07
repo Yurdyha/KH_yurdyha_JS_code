@@ -1,0 +1,12 @@
+.p {
+    color: black;
+    font-size: 3%;
+}
+
+.block {
+    border: solid;
+    color: black;
+    width: 170px;
+    height: 75px;
+    
+}
