@@ -10,3 +10,7 @@
     height: 75px;
     
 }
+
+.block:hover {
+     border: 3px black;
+}
